@@ -11,3 +11,5 @@ programa para esp32 s3 mini que lea los siguientes datos:
 la informacion debe desplegarla en una pantalla oled 1.3 spi de siete pines sh1106
 
 esta informacion debe irla rotando
+
+NOTA: EL CODIGO SE CREO EN CHAT GPT
